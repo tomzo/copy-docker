@@ -1,0 +1,3 @@
+#!/bin/bash
+
+exec /opt/copy/x86_64/CopyConsole -root=/copy -username=$COPY_USERNAME -password=$COPY_PASSWORD
